@@ -5,5 +5,5 @@ st.write(
     "This works! [docs.streamlit.io](https://docs.streamlit.io/)."
 )
 st.write(
-    "The ooonly limit is [https://zombo.com](zombo.com)."
+    "The only limit is [https://zombo.com](zombo.com)."
 )
